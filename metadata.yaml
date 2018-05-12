@@ -1,0 +1,40 @@
+_repo: Wulnoth-the-WandererA-Story-of-King-Alfred-of-England_46320
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+  - agent_name: Kinney, Margaret West
+    birthdate: 1872
+    gutenberg_agent_id: '25250'
+    url: http://www.gutenberg.org/2009/agents/25250
+covers:
+- cover_type: archival
+  image_path: 46320-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Inman, Herbert
+    aliases:
+    - Escott-Inman, H. (Herbert)
+    - Inman, Herbert Escott
+    gutenberg_agent_id: '43720'
+    url: http://www.gutenberg.org/2009/agents/43720
+description: ''
+gutenberg_issued: '2014-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46320'
+  lccn: 09007394
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alfred, King of England, 849-899 -- Fiction'
+- !lcc 'PR'
+title: 'Wulnoth the Wanderer: A Story of King Alfred of England'
+url: http://www.gutenberg.org/ebooks/46320
